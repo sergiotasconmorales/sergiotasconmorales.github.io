@@ -32,8 +32,10 @@ plugins:
 
 show_links: yes
 
+home_url: index
 education_url: education
 publications_url: publications
+experience_url: experience
 
 # Exclude from processing.
 # The following items will not be processed, by default.

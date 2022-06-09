@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: list
-title: Publications
-permalink: publications
+title: Professional Experience
+permalink: experience
 ---
+-
