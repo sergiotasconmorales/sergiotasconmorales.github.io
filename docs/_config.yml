@@ -30,6 +30,8 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
+show_links: yes
+
 education_url: education
 publications_url: publications
 
