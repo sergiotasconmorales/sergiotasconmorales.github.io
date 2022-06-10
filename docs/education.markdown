@@ -8,5 +8,7 @@ permalink: education
 ---
 
 - [2011-2017] Electronic Engineering, Universidad del Valle, Cali, Colombia.
+
 - [2018-2020] Erasmus Mundus Joint Master in Medical Imaging and Applications (MAIA), University of Burgundy, University of Casino and Meridional Lazio, University of Girona.
+
 - [2020-present] PhD Student, University of Bern, Bern, Switzerland.

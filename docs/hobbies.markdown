@@ -10,6 +10,9 @@ permalink: hobbies
 - Drawing
   - [@legendary.drawings814](https://www.instagram.com/legendary.drawings814/?hl=en)
   - [@scribbling.monster814](https://www.instagram.com/scribbling.monster814/?hl=en)
+
 - Violin
+
 - Reading
+
 - Hiking
