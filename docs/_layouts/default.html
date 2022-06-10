@@ -4,6 +4,7 @@
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
 
@@ -21,9 +22,12 @@
         <img src="assets/profile.jpeg" alt="Italian Trulli" style="width:300px;height:300px;">
         <section id="downloads">
           {% if site.show_links %}
-            <a href="{{ site.education_url }}" class="btn">Education</a>
-            <a href="{{ site.experience_url }}" class="btn">Professional Experience</a>
-            <a href="{{ site.publications_url }}" class="btn">Publications</a>
+            <a href="{{ site.education_url }}" class="btn">👨‍🎓 Education</a>
+            <a href="{{ site.experience_url }}" class="btn">💻 Professional Experience</a>
+            <a href="{{ site.publications_url }}" class="btn">📜 Publications</a>
+            <a href="{{ site.awards_url }}" class="btn"> 🥇 Awards</a>
+            <a href="{{ site.github_url }}" class="btn">👨‍💻 GitHub</a>
+            <a href="{{ site.hobbies_url }}" class="btn">🎻 Hobbies</a>
 
           {% endif %}
         </section>
