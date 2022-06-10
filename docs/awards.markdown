@@ -7,12 +7,20 @@ title: Honors and Awards
 permalink: awards
 ---
 
+## High school
+
 - [2009] Best high school graduate.
 
-- [2011-2013] Best GPA during five consecutive semesters (Bachelor).
+## Bachelor
+
+- [2011-2013] Best GPA during five consecutive semesters.
+
+- [2015-2016] Scholarship Young Engineers from the [German Academic Exchange Service (DAAD)](https://www.daad.de/en/).
 
 - [2017] Bachelor final project with distinction.
   - [Method for the Non-invasive Measurement of the Fetal Electrocardiogram](assets/TG.pdf)
+
+## Master
 
 - [2018] Erasmus+ scholarship (Master in Medical Imaging and Applications).
 

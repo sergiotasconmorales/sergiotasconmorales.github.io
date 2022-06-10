@@ -8,11 +8,15 @@ permalink: hobbies
 ---
 
 - Drawing
-  - [@legendary.drawings814](https://www.instagram.com/legendary.drawings814/?hl=en)
-  - [@scribbling.monster814](https://www.instagram.com/scribbling.monster814/?hl=en)
+  > Pencil drawing has been one of my favorite hobbies since I was a kid. Even though I am mostly self-taught, the support from my mom to point out errors was crucial. For some examples, check out my Instagram account [@legendary.drawings814](https://www.instagram.com/legendary.drawings814/?hl=en)
+
+  > More recently, I became interested in the technique known as scribbling, which is more flexible than graphite and can be performed in less time. What attracted me to this technique is the possibility of creating representations from imagination, in a more abstract way. For some examples visit [@scribbling.monster814](https://www.instagram.com/scribbling.monster814/?hl=en)
 
 - Violin
+  > Definitely the violin is my favorite instrument. I started learning in March of 2021. Even though it is sometimes frustrating not being able to produce the most enjoyable sounds, hearing the progress after every practice session is satisfactory and also allows me to train my discipline. Some of my favorite composers include Wieniawski, Kreisler, Sarasate, Strauss and Bach.
 
 - Reading
+  > I am definitely not the best reader you will ever meet, but when I find an interesting book, I usually finish it. I like many types of books, from books about WW2 to psychology-supported methods for self-improvement. My favorite writer is Dostoievsky.
 
 - Hiking
+  > Living in Switzerland it is impossible not to love hiking. The amazing landscapes are always there to be seen, even with bad weather. Hiking with a group of friends allows me to perform a healthy activity that can also push me to new levels of physical resistance and at the same time the contact with nature is always positive.
