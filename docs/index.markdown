@@ -11,11 +11,11 @@ layout: default
 
 - September 2021: Participation in the [EXCITE summer school](https://excite.ethz.ch/education/summer-school.html) organized by the ETHZ and the University of Zurich.
 
-- November 2020: Started my PhD at the University of Bern under the supervision of Prof. Dr. Raphael Sznitman and Dr. Pablo Márquez Neila.
+- November 2020: I'm starting my PhD at the University of Bern under the supervision of Prof. Dr. Raphael Sznitman and Dr. Pablo Márquez Neila.
 
-- June 2020: Finished the Erasmus Mundus Joint Master in Medical Imaging and Applications with two distinctions (best student and best thesis).
+- June 2020: I finished the Erasmus Mundus Joint Master in Medical Imaging and Applications with two distinctions (best student and best thesis).
 
-- February 2020: Starting my internship at [Mediri GmbH](https://mediri.com/en/medical-imaging-translating-research-into-application/) to develop my master thesis in the topic of MS lesion segmentation from longitudinal data.
+- February 2020: I started my internship at [Mediri GmbH](https://mediri.com/en/medical-imaging-translating-research-into-application/) to develop my master thesis in the topic of MS lesion segmentation from longitudinal data.
 
 - April 2018: I received the Erasmus Mundus grant to study the Master in Medical Imaging and Applications (MAIA) at 3 different universities in France, Italy and Spain.
 
