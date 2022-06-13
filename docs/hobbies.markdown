@@ -10,7 +10,7 @@ permalink: hobbies
 - Drawing
   > Pencil drawing has been one of my favorite hobbies since I was a kid. Even though I am mostly self-taught, the support from my mom to point out errors was crucial. For some examples, check out my Instagram account [@legendary.drawings814](https://www.instagram.com/legendary.drawings814/?hl=en)
 
-  > More recently, I became interested in the technique known as scribbling, which is more flexible than graphite and can be performed in less time. What attracted me to this technique is the possibility of creating representations from imagination, in a more abstract way. For some examples visit [@scribbling.monster814](https://www.instagram.com/scribbling.monster814/?hl=en)
+  > More recently, I became interested in the technique known as scribbling, which is more flexible than graphite and can be performed in less time. What attracted me to this technique is the possibility of creating things from imagination, in a more abstract way. For some examples visit [@scribbling.monster814](https://www.instagram.com/scribbling.monster814/?hl=en)
 
 - Violin
   > Definitely the violin is my favorite instrument. I started learning in March of 2021. Even though it is sometimes frustrating not being able to produce the most enjoyable sounds, hearing the progress after every practice session is satisfactory and also allows me to train my discipline. Some of my favorite composers include Wieniawski, Kreisler, Sarasate, Strauss and Bach.
