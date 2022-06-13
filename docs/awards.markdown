@@ -7,9 +7,14 @@ title: Honors and Awards
 permalink: awards
 ---
 
-## High school
+## Master
 
-- [2009] Best high school graduate.
+- [2018] Erasmus+ scholarship (Master in Medical Imaging and Applications).
+
+- [2020] Best MAIA master student award.
+
+- [2020] Best MAIA master thesis award.
+  - [Multiple Sclerosis Lesion Segmentation Using Longitudinal Normalization and Convolutional Recurrent Neural Networks](http://eia.udg.edu/~aoliver/maiaDocs/bookMaia3rd_small.pdf) (Page 257).
 
 ## Bachelor
 
@@ -20,11 +25,6 @@ permalink: awards
 - [2017] Bachelor final project with distinction.
   - [Method for the Non-invasive Measurement of the Fetal Electrocardiogram](assets/TG.pdf)
 
-## Master
+## High school
 
-- [2018] Erasmus+ scholarship (Master in Medical Imaging and Applications).
-
-- [2020] Best MAIA master student award.
-
-- [2020] Best MAIA master thesis award.
-  - [Multiple Sclerosis Lesion Segmentation Using Longitudinal Normalization and Convolutional Recurrent Neural Networks](http://eia.udg.edu/~aoliver/maiaDocs/bookMaia3rd_small.pdf) (Page 257).
+- [2009] Best high school graduate.
