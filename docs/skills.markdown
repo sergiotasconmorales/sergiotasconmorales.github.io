@@ -9,17 +9,17 @@ permalink: skills
 
 ## Programming
 
-- Python
-- PyTorch
-- C++
-- Matlab
+- Python (Advanced)
+- PyTorch (Advanced)
+- C++ (Advanced)
+- Matlab (Advanced)
 
 ## Software and other Languages
-- HTML
-- CSS
-- SQL
-- Latex
-- Microsoft office suite
+- HTML (Intermediate)
+- CSS (Intermediate)
+- SQL (Intermediate)
+- Latex (Intermediate)
+- Microsoft office suite (Intermediate)
 
 ## Languages
 

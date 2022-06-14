@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Sergio Tascón Morales
+title: Sergio Tascón-Morales
 email: sergio.tasconmorales@unibe.ch
 description: >- # this means to ignore newlines until "baseurl:"
   I'm a PhD Student from Colombia, working at the ARTORG Center for Biomedical Engineering Research of the University of Bern, Switzerland. I'm currently working on Visual Question Answering (VQA) in Medical Imaging.<br /><br />
 
-  <a href="mailto:sergio.tasconmorales@unibe.ch" style="">Send me an email</a> 
+  <a href="mailto:sergio.tasconmorales@unibe.ch" style="">Send me an email</a>
 # Build settings
 #theme: jekyll-theme-hacker
 remote_theme: pages-themes/hacker@v0.2.0
