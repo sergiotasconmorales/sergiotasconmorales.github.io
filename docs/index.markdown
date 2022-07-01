@@ -15,8 +15,8 @@ layout: default
 
 - June 2020: I finished the Erasmus Mundus Joint Master in Medical Imaging and Applications with two distinctions: best student and best thesis.
 
-- February 2020: I started my internship at [Mediri GmbH](https://mediri.com/en/medical-imaging-translating-research-into-application/) to develop my master thesis in the topic of MS lesion segmentation from longitudinal data.
+- February 2020: I started my internship at [Mediri GmbH](https://mediri.com/en/medical-imaging-translating-research-into-application/) to develop my master thesis on the topic of Multiple Sclerosis lesion segmentation from longitudinal data.
 
 - April 2018: I received the Erasmus Mundus grant to study the [Master in Medical Imaging and Applications (MAIA)](https://maiamaster.udg.edu) at 3 different universities in France, Italy and Spain.
 
-- December 2017: I graduated as an electronic engineer at [Universidad del Valle](https://www.univalle.edu.co). 
+- December 2017: I graduated as an electronic engineer at [Universidad del Valle](https://www.univalle.edu.co).
