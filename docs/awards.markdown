@@ -10,7 +10,7 @@ permalink: awards
 ## Master
 
 - [2020] Best MAIA master thesis award.
-  - [Multiple Sclerosis Lesion Segmentation Using Longitudinal Normalization and Convolutional Recurrent Neural Networks](http://eia.udg.edu/~aoliver/maiaDocs/bookMaia3rd_small.pdf) (Page 257).
+  - _Multiple Sclerosis Lesion Segmentation Using Longitudinal Normalization and Convolutional Recurrent Neural Networks._ [Original text (Page 257)](http://eia.udg.edu/~aoliver/maiaDocs/bookMaia3rd_small.pdf) \| [MLCN paper](https://link.springer.com/chapter/10.1007/978-3-030-66843-3_15).
 
 - [2020] Best MAIA master student award.
 
@@ -19,7 +19,7 @@ permalink: awards
 ## Bachelor
 
 - [2017] Bachelor final project with distinction.
-  - [Method for the Non-invasive Measurement of the Fetal Electrocardiogram](assets/TG.pdf)
+  - _Method for the Non-invasive Measurement of the Fetal Electrocardiogram._ [Original text](assets/TG.pdf)
 
 - [2015-2016] Scholarship Young Engineers from the [German Academic Exchange Service (DAAD)](https://www.daad.de/en/).
 
