@@ -7,7 +7,7 @@ layout: default
 
 ## News
 
-- June 2022: [Our paper](https://arxiv.org/abs/2206.13296) with title "Consistency-preserving Visual Question Answering in Medical Imaging" was accepted by [MICCAI 2022](https://conferences.miccai.org/2022/en/), which will take place in Singapore in September.
+- June 2022: [Our paper](https://arxiv.org/abs/2206.13296) with title "Consistency-preserving Visual Question Answering in Medical Imaging" was accepted at [MICCAI 2022](https://conferences.miccai.org/2022/en/), which will take place in Singapore in September.
 
 - September 2021: Participation in the [EXCITE summer school](https://excite.ethz.ch/education/summer-school.html) organized by the ETHZ and the University of Zurich.
 
