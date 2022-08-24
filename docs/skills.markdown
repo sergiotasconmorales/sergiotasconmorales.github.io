@@ -29,4 +29,6 @@ permalink: skills
 - <label for="file">English</label> <progress id="file" value="90" max="100"> 90% </progress>
 - <label for="file">German</label> <progress id="file" value="85" max="100"> 85% </progress>
 - <label for="file">Italian</label> <progress id="file" value="55" max="100"> 55% </progress>
+- <label for="file">Swiss German</label> <progress id="file" value="10" max="100"> 15% </progress>
 - <label for="file">Russian</label> <progress id="file" value="10" max="100"> 10% </progress>
+
