@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: list
-title: Honors and Awards
+title: Selected Honors and Awards
 permalink: awards
 ---
 
