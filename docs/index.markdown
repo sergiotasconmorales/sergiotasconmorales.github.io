@@ -7,6 +7,8 @@ layout: default
 
 ## News
 
+- February 2023: Our paper entitled "Logical Implications for Visual Question Answering Consistency" was accepted for publication at [CVPR 2023](https://cvpr2023.thecvf.com/), to take place in June in Vancouver, Canada.
+
 - June 2022: [Our paper](https://arxiv.org/abs/2206.13296) with title "Consistency-preserving Visual Question Answering in Medical Imaging" was accepted at [MICCAI 2022](https://conferences.miccai.org/2022/en/), which will take place in Singapore in September.
 
 - September 2021: Participation in the [EXCITE summer school](https://excite.ethz.ch/education/summer-school.html) organized by the ETHZ and the University of Zurich.
