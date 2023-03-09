@@ -15,7 +15,7 @@ layout: default
 
 - November 2020: I'm starting my PhD at the [University of Bern](https://www.unibe.ch/index_eng.html) under the supervision of Prof. Dr. Raphael Sznitman and Dr. Pablo Márquez Neila.
 
-- June 2020: I finished the Erasmus Mundus Joint Master in Medical Imaging and Applications with two distinctions: best student and best thesis.
+- June 2020: I finished the Erasmus Mundus Joint Master in Medical Imaging and Applications with two awards: best student and best thesis.
 
 - February 2020: I started my internship at [Mediri GmbH](https://mediri.com/en/medical-imaging-translating-research-into-application/) to develop my master thesis on the topic of Multiple Sclerosis lesion segmentation from longitudinal data.
 
