@@ -7,9 +7,13 @@ title: Publications
 permalink: publications
 ---
 
+## 2023
+- \[Accepted\] Tascon-Morales, Sergio, Pablo Márquez-Neila, and Raphael Sznitman. "Logical Implications for Visual Question Answering Consistency." Conference on Computer Vision and Pattern Recognition (CVPR), 2023.
+
+
 ## 2022
 
-- Tascon-Morales, Sergio, Pablo Márquez-Neila, and Raphael Sznitman. "Consistency-Preserving Visual Question Answering in Medical Imaging." International Conference on Medical Image Computing and Computer-Assisted Intervention. Springer, Cham, 2022. \| [Springer](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_37) \| [arXiv preprint](https://arxiv.org/abs/2206.13296) \| [Code](https://github.com/sergiotasconmorales/consistency_vqa)
+- Tascon-Morales, Sergio, Pablo Márquez-Neila, and Raphael Sznitman. "Consistency-Preserving Visual Question Answering in Medical Imaging." International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). Springer, Cham, 2022. \| [Springer](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_37) \| [arXiv preprint](https://arxiv.org/abs/2206.13296) \| [Code](https://github.com/sergiotasconmorales/consistency_vqa)
   > Visual Question Answering (VQA) models take an image and a natural-language question as input and infer the answer to the question. Recently, VQA systems in medical imaging have gained popularity thanks to potential advantages such as patient engagement and second opinions for clinicians. While most research efforts have been focused on improving architectures and overcoming data-related limitations, answer consistency has been overlooked even though it plays a critical role in establishing trustworthy models. In this work, we propose a novel loss function and corresponding training procedure that allows the inclusion of relations between questions into the training process. Our experiments show that our method outperforms state-of-the-art baselines, not only by improving model consistency, but also in terms of overall model accuracy.
 
 ## 2020
