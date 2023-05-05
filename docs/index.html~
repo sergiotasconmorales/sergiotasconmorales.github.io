@@ -106,7 +106,7 @@
 											<a href="https://arxiv.org/pdf/2303.09427.pdf" class="image"><img src="images/cvpr2023.png" alt="" /></a>
 											<div class="inner">
 												<a href="https://arxiv.org/pdf/2303.09427.pdf" ><h4>Logical Implications for Visual Question Answering Consistency <i class="fas fa-link"></i></h4></a> <h5>CVPR 2023 [Accepted] </h5>
-												<p>A method to improve consistency in VQA by integrating logical relations between pairs of question-answers into the tratining process. </p>
+												<p>A method to improve consistency in VQA by integrating logical relations between pairs of question-answers into the tratining process </p>
 											</div>
 										</article>
 										<article>
@@ -135,14 +135,31 @@
 								<div class="container">
 									<h3>Skills</h3>
 										<h4>Programming</h4>
-										<p>Python<br> 
-										PyTorch<br>
-										C++<br>
-										MATLAB</p>
+										<ul style="list-style-type:none;">
+											<li>Python</li>
+											<li>PyTorch</li>
+											<li>C++</li>
+											<li>MATLAB</li>
+										</ul>
 										<h4>Software and Other Languages</h4>
-											<p>HTML<br>CSS<br>SQL<br>Latex<br>MS Office<br>Inkscape</p>
+										<ul style="list-style-type:none;">
+											<li>HTML</li>
+											<li>CSS</li>
+											<li>SQL</li>
+											<li>Latex</li>
+											<li>MS Office</li>
+											<li>Inkscape</li>
+										</ul>
 									   <h4>Languages</h4>
-											<p>Spanish | Native<br>English | Advanced<br>German | Advanced<br>Swiss German | Intermediate<br>Italian | Intermediate<br>Turkish | Beginner<br>Russian | Beginner</p>
+										<ul style="list-style-type:none;">
+											<li>Spanish | Native</li>
+											<li>English | Advanced</li>
+											<li>German | Advanced</li>
+											<li>Swiss German | Intermediate</li>
+											<li>Italian | Intermediate</li>
+											<li>Turkish | Beginner</li>
+											<li>Russian | Beginner</li>
+										</ul>
 								</div>
 							</section>
 
@@ -202,7 +219,7 @@
 											<a href="#" onclick="return false;" class="image"><img src="images/hiking.png" alt="" /></a>
 											<div class="inner">
 												<h4>Hiking</h4>
-												<p>It is impossible not to like and enjoy hiking when you live in Switzerland. The amazing landscapes are always there to be seen, even with bad weather. The first time I went to Grindelwald, I could not believe my eyes.</p>
+												<p>It is impossible not to like and enjoy hiking when you live in Switzerland. The amazing landscapes are always there to be seen, even with bad weather. The first time I went to Grindelwald, I could not believe my eyes..</p>
 											</div>
 										</article>
 								</div>
