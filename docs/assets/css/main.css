@@ -206,7 +206,7 @@ input, select, textarea {
 		color: #fff;
 		font-family: "Source Code Pro", monospace;
 		font-size: 0.9em;
-		margin: 0 0.25em;
+		margin: 0 0em;
 		padding: 0.25em 0.65em;
 	}
 
@@ -222,6 +222,8 @@ input, select, textarea {
 			line-height: 1.5em;
 			overflow-x: auto;
 			padding: 1em 1.5em;
+			text-align: left;
+			white-space: pre-line;
 		}
 
 	.align-left {
