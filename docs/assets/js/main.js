@@ -159,3 +159,36 @@
 		});
 
 })(jQuery);
+
+const text = "I am currently looking for a summer internship in Computer Vision, Deep Learning or NLP.";
+let index = 0;
+let direction = 1;
+
+function writeAndErase() {
+  const element = document.getElementById("myElement");
+  element.textContent = text.slice(0, index);
+  index += direction;
+  if (index > text.length || index < 1) {
+    direction *= -1;
+  }
+}
+
+function writeText() {
+	const element = document.getElementById("myElement");
+	element.textContent = text.slice(0, index);
+	index += direction;
+  }
+
+  
+
+var showText = function (target, message, index, interval) {   
+	if (index < message.length) {
+	  $(target).append(message[index++]);
+	  setTimeout(function () { showText(target, message, index, interval); }, interval);
+	}
+  }
+
+$(function () {
+showText("#msg", "I am currently looking for a summer internship in Computer Vision, Deep Learning or NLP.", 0, 50);   
+});
+  
