@@ -58,7 +58,7 @@
 										<li class="icon solid fa-file"><a href="https://arxiv.org/pdf/2303.09427.pdf">Preprint</a></li>
 										<li class="icon solid fa-code"><a href="https://github.com/sergiotasconmorales/imp_vqa">Code & Data</a></li></a>
 									</ul>
-									<h4>Abstract</h4>
+									<h3>Abstract</h3>
 									<p style="text-align: justify; text-justify: inter-word;">Despite considerable recent progress in Visual Question Answering (VQA) models, inconsistent or contradictory answers continue to cast doubt on their true reasoning capabilities. However, most proposed methods use indirect strategies or strong assumptions on pairs of questions and answers to enforce model consistency. Instead, we propose a novel strategy intended to improve model performance by directly reducing logical inconsistencies. To do this, we introduce a new consistency loss term that can be used by a wide range of the VQA models and which relies on knowing the logical relation between pairs of questions and answers. While such information is typically not available in VQA datasets, we propose to infer these logical relations using a dedicated language model and use these in our proposed consistency loss function. We conduct extensive experiments on the VQA Introspect and DME datasets and show that our method brings improvements to state-of-the-art VQA models while being robust across different architectures and settings.  </p>
 								</div>
 							</section>
@@ -66,7 +66,7 @@
 
 							<section id="video">
 								<div class="container">
-									<h4>Video</h4>							
+									<h3>Video</h3>							
 									<p>The following video offers an overview of our method</p>
 									<iframe class="youtube-video" src="https://www.youtube.com/embed/LBNNw-Erm74" title="[CVPR2023] Logical Implications for Visual Question Answering Consistency" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 								</div>
@@ -74,7 +74,7 @@
 						
 							<section id="method">
 								<div class="container">
-									<h4>Method</h4>							
+									<h3>Method</h3>							
 									<p>One of the key ideas about our proposed method is considering question-answer pairs as propositions. For example, the pair ("What is the color of the horse?", "White") can be represented by the proposition "The color of the horse is white."
 										Under this consideration, we can analyze how a pair of proposition (a pair of QA) is logically related. For example, the proposition "This is a vegetarian pizza" implies the proposition "The pizza does not have meat on it."
 										From formal logic, a well-known definition establishes that two propositions are inconsistent if both cannot be true at the same time. In other words, two propositions are inconsistent if one of them implies the negation of the other.
@@ -85,7 +85,7 @@
 										<article>
 											<a href="" onclick="return false;" class="image"><img src="../images/cvpr2023_1.png" alt="" /></a>
 											<div class="inner">
-												<h5>LI-MOD</h5> 
+												<h4>LI-MOD</h4> 
 												<p>We propose leveraging the task of Natural Language Inference (NLI) to predict logical relations between propositions. To achieve this, we introduce our Logical-Implication model, in which we first pre-train BERT on the SNLI dataset, and then fine-tune it on a subset of annotated relations from Introspect-VQA. This allows us to use the fine-tuned model to predict the relations for the remaining part of the dataset.</p>
 											</div>
 										</article>
@@ -109,13 +109,13 @@
 
 							<section id="results">
 								<div class="container">
-									<h4>Results</h4>							
+									<h3>Results</h3>							
 									<p>We measure accuracy and consistency on two different datasets and for different baselines.</p>
 									<div class="features">
 										<article>
 											<a href="" onclick="return false;" class="image"><img src="../images/cvpr2023_4.png" alt="" /></a>
 											<div class="inner">
-												<h5>Introspect-VQA Dataset</h5> 
+												<h4>Introspect-VQA Dataset</h4> 
 												<p>For this dataset, we used Bilinear Attention Networks (BAN) and LXMERT. We compare our method to different approaches for consistency enhancement. In the case of LXMERT, since it does not have an explicit guided-attention mechanism, we compare to flipping baselines, which are explained in more detail in our paper.</p>
 											</div>
 										</article>
@@ -132,7 +132,7 @@
 
 							<section id="examples">
 								<div class="container">
-									<h4>Examples</h4>							
+									<h3>Examples</h3>							
 									<p>The following are qualitative examples produced by our method on the Introspect-VQA dataset</p>
 									<span class="image fit"><img src="../images/cvpr2023_6.png" alt="" /></span>
 									<p>The following are qualitative examples produced by our method on the DME-VQA dataset</p>
@@ -142,7 +142,7 @@
 
 							<section id="citation">
 								<div class="container">
-									<h4>Bibtex Citation</h4>	
+									<h3>Bibtex Citation</h3>	
 									<pre>
 										<code>@InProceedings{Tascon_2023_CVPR,
 											author    = {Tascon-Morales, Sergio and Márquez-Neila, Pablo and Sznitman, Raphael},
