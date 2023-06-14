@@ -160,7 +160,7 @@
 
 })(jQuery);
 
-const text = "I am currently looking for a summer internship in Computer Vision, Deep Learning or NLP.";
+const text = "I enjoy working with Computer Vision and Natural Language Processing..";
 let index = 0;
 let direction = 1;
 
@@ -189,6 +189,6 @@ var showText = function (target, message, index, interval) {
   }
 
 $(function () {
-showText("#msg", "I am currently looking for a summer internship in Computer Vision, Deep Learning or NLP.", 0, 50);   
+showText("#msg", "I enjoy working with Computer Vision and Natural Language Processing.", 0, 50);   
 });
   
