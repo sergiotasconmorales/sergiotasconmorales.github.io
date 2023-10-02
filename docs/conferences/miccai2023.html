@@ -45,12 +45,9 @@
       <ul>
         <li><a href="#links" class="nav-link scrollto active"><i class="bx bx-link"></i> <span>Links</span></a></li>
         <li><a href="#abstract" class="nav-link scrollto"><i class="bx bx-info-circle"></i> <span>Abstract</span></a></li>
-        <!--
-        <li><a href="#video" class="nav-link scrollto"><i class='bx bxs-videos'></i><span>Video</span></a></li>
         <li><a href="#method" class="nav-link scrollto"><i class="bx bx-bulb"></i> <span>Method</span></a></li>
         <li><a href="#results" class="nav-link scrollto"><i class="bx bx-line-chart"></i> <span>Results</span></a></li>
         <li><a href="#examples" class="nav-link scrollto"><i class="bx bx-images"></i> <span>Examples</span></a></li>
-        -->
         <li><a href="#bibtex" class="nav-link scrollto"><i class="bx bxs-quote-left"></i> <span>Bibtex citation</span></a></li>
         <!-- <li><a href="#testimonials" class="nav-link scrollto"><i class="bx bx-message-rounded-dots"></i> <span>Testimonials</span></a></li> -->
       </ul>
@@ -100,16 +97,66 @@
       </div>
     </section>
 
-    <section id="uc" class="features">
+    <section id="method" class="features">
       <div class="container" data-aos="fade-up">
+        <div class="section-title">
+          <h2>Method</h2>
+        </div>
         <div class="row justify-content-center">
           <div class="col-lg-9 pt-4 pt-lg-0 content", style="text-align: justify;">
-          <img src="../assets/img/under_construction.jpg" class="img-fit", alt="">
+          <p>Our method resembles the process that a human would follow when asked a question about a specific region of an image. This is, considering the evidence related to the question in the whole image to understand the scene from a higher perspective, and then focusing on the region to answer the question. As shown in the figure below, we do this by applying the target region to the attention maps, but only after the model has access to the entire image. We call this Localized Attention. With this, the model is able to highlight the image regions that are related to the question, and then focus on the region.</p>
+            <img src="../assets/img/miccai2023_method.png" class="img-fit", alt="">
         </div>
         </div>
       </div>
     </section>
-    
+   
+    <section id="results" class="features">
+      <div class="container" data-aos="fade-up">
+        <div class="section-title">
+          <h2>Results</h2>
+        </div>
+        <div class="row justify-content-center">
+        <div class="col-lg-9 pt-4 pt-lg-0 content">
+        <p>We measure performance on three different datasets and for different baselines. The following tables summarize our results.</p>
+        <div class="row">
+          <div class = "col-lg-8 my-auto">
+            <img src="../assets/img/miccai2023_results_1.png" class="img-fit", alt="">
+          </div>
+          <div class = "col-lg-4 my-auto">
+            <h4>DME-VQA</h4> 
+            <p>Compared to other methods, our proposed approach bring benefits for most of the question types, showing the efficacy of our method. </p>
+        </div>
+        </div>
+        <hr>
+        <div class="row">
+          <div class = "col-lg-8 my-auto">
+            <img src="../assets/img/miccai2023_results_2.png" class="img-fit", alt="">
+          </div>
+          <div class = "col-lg-4 my-auto">
+            <h4>RIS-VQA and INSEGCAT-VQA</h4>
+              <p>Especially on the RIS-VQA dataset, our method brings significant improvements in the performance metrics. We hypothesize that these larger boosts in performance are due to the type of tools in the dataset, which tend to be similar.</p>
+        </div>
+        </div>
+      </div>
+    </div>
+      </div>
+    </section>
+
+    <section id="examples" class="features">
+      <div class="container" data-aos="fade-up">
+        <div class="section-title">
+          <h2>Examples</h2>
+        </div>
+        <div class="row justify-content-center">
+          <div class="col-lg-9 pt-4 pt-lg-0 content", style="text-align: justify;">
+          <p>The following are qualitative examples produced by our method on the different datasets.</p>
+          <img src="../assets/img/miccai2023_examples.png" class="img-fit", alt="">
+        </div>
+        </div>
+      </div>
+    </section>
+
 
 <!--
     <section id="video" class="features">
