@@ -1648,4 +1648,12 @@ section {
   font-size: 13px;
 }
 
+/* 5-column layout for hobbies */
+@media (min-width: 992px) {
+  .col-lg-5ths {
+    flex: 0 0 20%;
+    max-width: 20%;
+  }
+}
+
 
